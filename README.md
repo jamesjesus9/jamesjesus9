@@ -14,7 +14,7 @@ I like to experiment with new technologies.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesjesus9&theme=algolia&show_icons=true" alt="jamesjesus9"/></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjesus9" alt="jamesjesus9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjesus9" alt="James" /> </p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
