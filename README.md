@@ -11,7 +11,7 @@ I like to experiment with new technologies.
 :blue_car::blue_car: :oncoming_automobile: :car:
 
 - ⚡ Fun fact: In like stats :bar_chart: and cars :oncoming_automobile:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesjesus9&theme=algolia&show_icons=true" alt="jamesjesus9"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesjesus9&theme=algolia&show_icons=true" alt="James"/></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesjesus9" alt="James" /> </p>
